@@ -1,0 +1,23 @@
+*{
+    font-family: 'Roboto Slab', serif;
+}
+.fs-20{
+    font-size: 20px;
+}
+.bg-037{
+    background-color: #071635;
+}
+.bg-91c{
+    background-color: #d0e0f7;
+}
+.call_us{
+    background-image: url('free_pik_bg_blue.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text-justify{
+    text-align: justify;
+}
+.text-037{
+    color: #071635;
+}
